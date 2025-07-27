@@ -1,5 +1,5 @@
 
-# 📚 Books to Scrape Dashboard (Demo)
+# Books Dashboard (Demo)
 
 **A Streamlit-powered app for visualizing book data scraped from [BooksToScrape.com](http://books.toscrape.com/)**
 
